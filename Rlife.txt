@@ -1,1 +1,1 @@
-test
+{"version":"1.0.3","news":"Added logs and fixed some errors."}
