@@ -1,1 +1,1 @@
-{"version":"0.2","news":"Ajout de plusieurs fonctions, fix bugs"}
+{"version":"0.3","news":"Ajout de plusieurs fonctions, fix bugs"}
