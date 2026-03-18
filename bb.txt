@@ -1,1 +1,1 @@
-{"version":"0.4","news":"Le mise a jour va sortir d'ici peux aller react dans annonce"}
+{"version":"0.5","news":"Le mise a jour va sortir d'ici peux aller react dans annonce"}
