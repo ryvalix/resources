@@ -1,1 +1,1 @@
-{"version":"0.5","news":"La mise a jour va sortir d'ici peux aller react dans annonce"}
+{"version":"0.5","news":"La mise a jour v0.4 est sorti maintenant vous avez un bypass captcha :)"}
